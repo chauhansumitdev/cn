@@ -1,0 +1,27 @@
+Modes of data transmission-
+simplex
+half duplex
+full duplez
+
+physical topology
+way in which the network is laid out physically
+ring
+mesh
+star
+bus topology
+hybrid
+
+netork models
+iso - osi model (international standard orgainzation/ open system interconnection)
+ - 7 layered architecture (solving independent system to communicate with each other by solving different problems in layers)
+
+physicl layer - 
+representaion of bits - adc to dac etc
+data rate
+line config
+physial topology
+mode of transimission
+
+data link layer
+framing 
+
