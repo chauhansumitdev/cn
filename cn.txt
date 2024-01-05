@@ -15,7 +15,7 @@ netork models
 iso - osi model (international standard orgainzation/ open system interconnection)
  - 7 layered architecture (solving independent system to communicate with each other by solving different problems in layers)
 
-physicl layer - 
+physicl layer - (hardware)
 representaion of bits - adc to dac etc
 data rate
 line config
@@ -23,5 +23,63 @@ physial topology
 mode of transimission
 
 data link layer
-framing 
+framing adding the header and trailer
+mac   
+access control
+flow control
+error control
 
+network layer
+logical addressing (ip)
+routing
+
+
+transport layer
+service point addressing
+segmentation and ressembly
+connection control
+err control
+flow control
+
+session layer
+dialog control and syncronization
+
+presentation layer 
+translation
+emcryption
+compression
+
+
+application layer
+file transfer etc mail
+
+
+
+switching
+- circut switching
+- packet switching
+    - datagram approach
+    - virtual approach
+
+
+Data Link layer
+it is divided into two sublayers -
+llc - logical link control
+mac - media access control
+
+mac(lan tech)
+llc - framing flow control, etc
+
+
+
+access control
+mac -
+aloha
+csma
+csma cd etc
+
+aloha
+csma - carrier sense multiple access
+
+
+flow control
