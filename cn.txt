@@ -83,3 +83,14 @@ csma - carrier sense multiple access
 
 
 flow control
+
+sliding window protocol
+stop and wait
+go back and automatic repeat
+selective repeat 
+
+
+checksum
+
+
+network layer
